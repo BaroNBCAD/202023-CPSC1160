@@ -49,6 +49,4 @@ int main(){
     delete[] list;
     list=nullptr;
     return 0;
-
-    return 0;
 }
